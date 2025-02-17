@@ -1,1 +1,2 @@
-# liverdiseaseanalysis
+this program can  predict if a person's liver is healthy or not when it is given a person's liver enzime data. namely 'Total_Bilirubin', 'Alkaline_Phosphotase', 'Direct_Bilirubin', 'Alamine_Aminotransferase', 'Total_Protiens'.Or you can give a csv file containing the data of multiple people and it will give various graphs based on the data given.
+you have to give it the location for the training data file which is to be entered in the line no 470.
